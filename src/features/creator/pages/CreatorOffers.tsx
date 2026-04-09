@@ -9,7 +9,6 @@ import {
   Package,
   Search,
   Repeat,
-  ArrowRight,
   Tv,
   Users,
   MonitorPlay,

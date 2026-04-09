@@ -1,5 +1,4 @@
 import { cn, formatCurrency } from "@/lib/utils";
-import { activeCreator } from "@/data";
 import {
   Copy,
   Check,
@@ -13,7 +12,6 @@ import {
   Receipt,
   CreditCard,
   Heart,
-  Users,
   DollarSign,
   Pencil,
 } from "lucide-react";
